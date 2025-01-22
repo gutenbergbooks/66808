@@ -13,14 +13,15 @@ Title: Laura Everingham
 
 Author: James Grant
 
-Release Date: January 26, 2022 [eBook #66808]
+Release Date: November 23, 2021 [eBook #66808]
 
 Language: English
+
+Character set encoding: UTF-8
 
 Produced by: Al Haines
 
 *** START OF THE PROJECT GUTENBERG EBOOK LAURA EVERINGHAM ***
-
 
 
 
@@ -2241,7 +2242,7 @@ tradition connected with it.
 
 Lachlan Mohr Mac Innon, about twenty years before his fall at
 Worcester, had been seized by a covenanting and reformatory spirit,
-and while the fervour lasted, had demolished an ancient chapel of St.
+and while the fervour lasted, had demolished an ancient chapel cf St.
 Colme, and with the stones thereof, built the said jointure-house.
 This was considered an act of sacrilege so deep, that the Mac Donalds
 of Keppoch, and other Catholic tribes, were on the point of marching
@@ -6776,7 +6777,7 @@ interest, for he was too brave in heart to hear it without emotion.
 'Yes, in the war against the Pindarees, and fought at the battle of
 Nagpore and the storming of Gawelghur.'
 
-'I knew him, my lad, I knew him well,' said the old Colonel, pressing
+'T knew him, my lad, I knew him well,' said the old Colonel, pressing
 both my hands in his; 'God bless me, but this is strange!  And you
 are the son of old Allan Mac Innon of the Royals!--He saved my life
 at Nagpore--.'
@@ -7500,7 +7501,7 @@ the well-known yacht of Sir Horace.'
 
 This pompous and inflated notice, which excited much merriment at the
 mess-table, fell heavily and sorely on me.  Every word of it was like
-a death-knell--yet I loitered calmly and placidly, as old Duncan
+a death-knell--jet I loitered calmly and placidly, as old Duncan
 Catanagh read it with a comical smile in his grey Highland eye, and
 with a quizzical emphasis on certain portions of it.  No one who saw
 me sitting there, so quietly and so pale (I could perceive my face in
@@ -8604,7 +8605,7 @@ The Turks were furious! not even his body was to be found, though the
 Sultan had offered a princely sum for it; and amid all the heads hewn
 off after the bombardment, there was not one found that would pass
 muster as having belonged to Vidimo, whose face was well known by a
-peculiar sabre cut which he received at the defence of Missolonghi in
+peculiar sabre cut which he revived at the defence of Missolonghi in
 1826.
 
 After the capture, Ali Pasha, and Hussein Ebn al Ajuz, with other
@@ -8612,7 +8613,7 @@ officers of the corps of Bombardiers, enjoyed to their hearts'
 content the pleasure of slicing off the head of the dark Egyptians,
 or stuffing their pockets with tawny ears, and with something better
 still the various good things to be picked up in the bazaars, the
-great khan, the Franciscan monastery, the Greek church, the Armenian
+great khan, he Franciscan monastery, the Greek church, the Armenian
 synagogue, and other places where the unbelieving dogs of Jews and
 Christians presumed to worship in any other fashion than that
 proscribed by the holy camel-driver.
@@ -9563,7 +9564,7 @@ field beneath the green banner of Beschid Pasha,' said Hussein.
 old Moolah, with a species of growl in his tone, as he glanced
 uneasily at my soldiers, most of whom had already dropped asleep.
 
-I laid a hand on my breast, and expressed a hope that he would not
+I laid a band on my breast, and expressed a hope that he would not
 think so meanly of me.
 
 'No, no, I shall answer for him,' said the Yuze Bashi; 'it ill
@@ -11414,7 +11415,7 @@ youthful face and curling beard; and by uttering a wish, found
 himself in the hall of his palace at Mecca, where he gave thanks unto
 Allah, and proceeded at once to punish Jerada and the evil Geni
 Sakhur.  The beautiful daughter of Sidon he enclosed in a flinty rock
-on Mount Horeb, and there, by a touch of his ring, sealed her up for
+on Mount Horeb, and there, by a touch of his ring, scaled her up for
 ever.  The Geni, by a whispered wish, he dragged shrieking through
 the air from the far and snowy recesses of Kaf.  Then tying a huge
 stone to his neck, he flung him headlong into the lake of Tiberias in
@@ -12103,7 +12104,7 @@ _Vestal_ lay--a rent and weedy hull.
 
 I now hoped that the Moolah and his ruffians meant to land us there,
 and deliver us up to our own commanding officer, and with this idea
-my spirit rose a little.  The familiar faces of our mess came
+my spirit rose a little.  The familiar faces of our on ess came
 before me; rough Duncan Catanagh, with his old legends about Loch
 Lomond and stories of the Mahrattah war: frank Jack Belton, and
 others among whom I had felt happier than ever I hoped to be after
@@ -12702,7 +12703,7 @@ swiftly, silently, and mysteriously.
 Iola still!
 
 It would come before me again and again, that face of tender beauty
-and reproachful sadness.  Her eyes were ever on me, by night, when
+and reproachful sadness.  Her eyes were ever on me, oy night, when
 all was darkness and profundity; and in the day-time, when the misty
 flakes of sunshine fell through the prison-bars, in waking or in
 sleeping, they were ever gazing on me--those dark and sad, but sweet
@@ -13146,7 +13147,7 @@ escaped the search of our captors.
 sir, than go back to that infernal prison.  Dioul! do you hear how
 the old chaoush is bellowing at the door?'
 
-Roused by the unusual noise, the dreamy sentinel turned his head half
+Housed by the unusual noise, the dreamy sentinel turned his head half
 round to listen, and at that moment Callum sprang upon him, and
 grasped his throat with a clutch into which he threw all the muscular
 strength of his sinewy arms and fingers.  The swarthy visage of the
@@ -13477,7 +13478,7 @@ outstretched in joyous congratulation, with many an inquiry, while
 the Turkish guard of Topchis looked on with a sullen and dogged stare
 from under their bushy eyebrows.
 
-Roused by their clamour, an officer in a scarlet jacket and tartan
+Housed by their clamour, an officer in a scarlet jacket and tartan
 trews, with a Turkish fez, a bearded chin, and a meerschaum in his
 mouth, jumped over a window on the ground-floor, and joined the group
 in the castle-yard.
@@ -13805,7 +13806,7 @@ at the ambassador's chapel.  Then he brought her home in his own
 frigate.  He is now posted, a C.B., on half-pay, and resides with his
 Armenian wife, and six little half-Scotch, half-Armenian imps, in one
 of the prettiest villages in Strathearn; so you see, Mac Innon, this
-classic island of Marmora has quite a family interest for me.'
+classic island of Marmora has quite a family interest for mo.'
 
 While Jack ran on in this fashion, I was wholly occupied in thinking
 of two soft eyes, and a certain fair, pale, English face, with its
